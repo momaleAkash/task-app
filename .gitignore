@@ -1,0 +1,30 @@
+# Node (Frontend)
+node_modules/
+dist/
+build/
+.env
+.env.*
+
+# Python (Backend)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Alembic
+alembic/versions/*.pyc
+
+# Misc
+*.sqlite3
